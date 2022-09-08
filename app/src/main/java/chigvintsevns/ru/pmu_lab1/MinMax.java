@@ -1,4 +1,4 @@
-package chigvintsevns.ru.a2lab1;
+package chigvintsevns.ru.pmu_lab1;
 
 public class MinMax {
     public int min2(int a, int b) {

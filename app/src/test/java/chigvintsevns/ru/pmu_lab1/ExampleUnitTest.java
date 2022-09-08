@@ -1,4 +1,4 @@
-package chigvintsevns.ru.a2lab1;
+package chigvintsevns.ru.pmu_lab1;
 
 import org.junit.Test;
 
@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 public class ExampleUnitTest {
-    chigvintsevns.ru.a2lab1.MinMax minMax = new chigvintsevns.ru.a2lab1.MinMax();
+    MinMax minMax = new MinMax();
     @Test
     public void minTest1() {
         //arr
